@@ -5,7 +5,7 @@
     "entries": [
       {
         "name": "saml",
-        "title": "saml",
+        "title": "Powerhouse SSO",
         "url": "https://api.sanity.io/v2021-10-01/auth/saml/login/3dd09354"
       }
     ]
